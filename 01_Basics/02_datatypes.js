@@ -28,8 +28,9 @@ console.log(3
      //undefined ==>  //when the value is not assigned is undefined
      //symbol ==>unique
 
-
      //object
+
+
 
      console.log(typeof undefined); //undefined
      console.log(typeof null);  //object 
